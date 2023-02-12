@@ -12,10 +12,10 @@
 - 🤔 I Love to work on and Learn new things in JavaScript
 -  My Portfolio
 -  https://mzeedevv.github.io/mZee.dev/
-- Favebook - https://www.facebook.com/profile.php?id=100032332901297
-- Twitter - https://twitter.com/mZeeDev
-- Instagram - https://www.instagram.com/mzeedev/
-- LinkedIn - https://www.linkedin.com/in/hamza-shaukat-b5551925a/
+-  👯 Facebook - https://www.facebook.com/profile.php?id=100032332901297
+- 💬 Twitter - https://twitter.com/mZeeDev
+- 📫 Instagram - https://www.instagram.com/mzeedev/
+- ⚡ LinkedIn - https://www.linkedin.com/in/hamza-shaukat-b5551925a/
 <!--
 **mZeeDevv/mZeeDevv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
