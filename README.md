@@ -1,7 +1,10 @@
 ### Hi there 👋
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+### I'm Hamza Khushal
+- 🔭 I'm Student of BS Computer Science.
+- 🌱 I’m currently working on my skills in JavaScript
+- 🤔 I Love to work on and Learn new things in JavaScript
+-  My Portfolio
+-  https://mzeedevv.github.io/mZee.dev/
 
 <!--
 **mZeeDevv/mZeeDevv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
