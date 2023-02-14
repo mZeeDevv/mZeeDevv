@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### I'm Hamza Khushal
-
+- 💬 I work on HTML - CSS - JAVASCRIPT - C - C++
 - 🔭 I'm Student of BS Computer Science.
 - 🌱 I’m currently working on my skills in JavaScript
 - 🤔 I Love to work on and Learn new things in JavaScript
