@@ -4,7 +4,7 @@
 -  🔭 I'm Student of BS Computer Science.
 -  🌱 I’m currently working on my skills in JavaScript
 -  🤔 I Love to work on and Learn new things in JavaScript
--  😄 My Portfolio - mzeedev.co
+-  😄 My Portfolio - https://mzeedev.co
 -  👯 Facebook - https://www.facebook.com/profile.php?id=100032332901297
 -  💬 Twitter - https://twitter.com/mZeeDev
 -  📫 Instagram - https://www.instagram.com/mzeedev/
