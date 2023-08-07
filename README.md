@@ -1,9 +1,11 @@
 ### Hi there 👋
-### I'm Hamza Khushal
-### 💬 HTML CSS JAVASCRIPT C & C++
--  🔭 I'm Student of BS Computer Science.
--  🌱 I’m currently working on my skills in JavaScript
+### I'm Hamza Khattak
+### 💬 Full Stack Web Developer
+### Software Developer
+-  🔭 I'm a Student of Computer Science.
+-  🌱 I’m currently working on my skills in ReactJS
 -  🤔 I Love to work on and Learn new things in JavaScript
+-  - Hackathons? Let's participate :) 
 -  😄 My Portfolio - https://mzeedev.co
 -  👯 Facebook - https://www.facebook.com/profile.php?id=100032332901297
 -  💬 Twitter - https://twitter.com/mZeeDev
