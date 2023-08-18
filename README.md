@@ -2,7 +2,8 @@
 ### I'm Hamza Khattak
 ### 💬 Full Stack Web Developer
 ### Software Developer
-![linkedin](https://github.com/mZeeDevv/mZeeDevv/assets/62940100/4d59864d-e483-44bf-af17-0bd709f45225)
+![LinkedIn Cover (Community)](https://github.com/mZeeDevv/mZeeDevv/assets/62940100/6cd360c2-cec7-47bf-b0e6-e780989d480f)
+
 
 -  🔭 I'm a Student of Computer Science.
 -  🌱 I’m currently working on my skills in ReactJS
