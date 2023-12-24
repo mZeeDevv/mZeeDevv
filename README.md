@@ -13,7 +13,7 @@
 -  👯 Facebook - https://www.facebook.com/profile.php?id=100032332901297
 -  💬 Twitter - https://twitter.com/mZeeDev
 -  📫 Instagram - https://www.instagram.com/mzeedev/
--  ⚡ LinkedIn - https://www.linkedin.com/in/hamza-shaukat-b5551925a/
+-  ⚡ LinkedIn - https://www.linkedin.com/in/mzeedev/
 
 <!--
 **mZeeDevv/mZeeDevv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
