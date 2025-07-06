@@ -6,11 +6,9 @@
 
 
 -  🔭 I'm a Student of Computer Science.
--  🌱 I’m currently working on my skills in ReactJS
--  🤔 I Love to work on and Learn new things in JavaScript
+-  🤔 I love to work on and Learn new JavaScript frameworks. 
 -  - Hackathons? Let's participate :) 
--  😄 My Portfolio - https://mzeedev.co
--  👯 Facebook - https://www.facebook.com/profile.php?id=100032332901297
+-  😄 My Portfolio - https://mzee.dev
 -  💬 Twitter - https://twitter.com/mZeeDev
 -  📫 Instagram - https://www.instagram.com/mzeedev/
 -  ⚡ LinkedIn - https://www.linkedin.com/in/mzeedev/
@@ -34,6 +32,16 @@
 - 🍃 **MongoDB**
 - 🐬 **MySQL**
 - 🧠 **Qdrant**
+
+## 💼 What I Do
+
+- Build end-to-end web applications with modern frameworks and best practices.
+- Deliver tech talks and workshops on web development, JavaScript ecosystems, and community building.
+- Lead and support tech communities, helping newcomers get into tech.
+
+---
+## Code is not just a skill, it's a superpower when paired with purpose.
+~ Hamzak Khattak
 <!--
 **mZeeDevv/mZeeDevv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
