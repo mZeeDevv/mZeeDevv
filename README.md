@@ -2,7 +2,7 @@
 ### I'm Hamza Khattak
 ### 💬 Full Stack Web Developer
 ### Software Developer
-![LinkedIn Cover (Community)](https://github.com/mZeeDevv/mZeeDevv/assets/62940100/6cd360c2-cec7-47bf-b0e6-e780989d480f)
+
 
 
 -  🔭 I'm a Student of Computer Science.
@@ -15,6 +15,25 @@
 -  📫 Instagram - https://www.instagram.com/mzeedev/
 -  ⚡ LinkedIn - https://www.linkedin.com/in/mzeedev/
 
+## 🛠 Tech Stack
+
+### ⚙️ Frontend
+- ⚛️ **React.js**
+- 🧭 **Next.js**
+- 🎨 **Tailwind CSS**
+- 💡 **JavaScript**
+- 🧱 **HTML/CSS**
+
+### 🔧 Backend
+- 🟢 **Node.js**
+- ⚡ **Express.js**
+- 🐍 **Python**
+- 🔥 **Firebase**
+
+### 🗄️ Databases
+- 🍃 **MongoDB**
+- 🐬 **MySQL**
+- 🧠 **Qdrant**
 <!--
 **mZeeDevv/mZeeDevv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
