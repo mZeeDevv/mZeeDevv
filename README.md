@@ -1,1 +1,1 @@
-## I work as Software Enngineer.
+## I work as Software Engineer.
